@@ -3,6 +3,8 @@
     margin-right: auto;
     margin-left: auto;
     background-color: rgb(56, 2, 56);
+    -moz-background-size: cover;
+    background-size: cover;
 }
 
 .conteudo {
